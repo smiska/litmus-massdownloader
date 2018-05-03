@@ -9,7 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^2.1.2",
-    "pixelmatch": "^4.0.2"
+    "node-fetch": "2.1.0",
+    "pixelmatch": "^4.0.2",
+  },
+  "devDependencies": {
+    "shelljs": "^0.8.1"
   }
 }
